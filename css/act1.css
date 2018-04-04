@@ -1,0 +1,32 @@
+#sec1{
+	background:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,1)),url('https://www.walldevil.com/wallpapers/a92/motherboard-wallpaper-computers-wallpapers.jpg');
+	background-size:cover;
+	height:90vh;
+	width:100vw;
+	position:relative;
+}
+
+#title{
+	font-family: 'Roboto Slab', serif;
+	color:white;
+	position:relative;
+	top:25vh;
+}
+
+#subtitle{
+	position:relative;
+	color:white;
+	top:28vh;
+}
+
+#sec2{
+	text-align:center;
+	margin-top:5vh;
+	height:100vh;
+	width:100vw;
+}
+
+#sec2title{
+	font-family: 'Indie Flower', cursive;
+	margin-bottom:5vh;
+}
