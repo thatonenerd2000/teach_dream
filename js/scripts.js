@@ -6,6 +6,7 @@ $(document).ready(function(){
         lifeLike: true,
     });
     $('#sec1').paroller();
+    $('#sec3').paroller();
     $(".scrolla").scrolla({
         mobile:true
     });
