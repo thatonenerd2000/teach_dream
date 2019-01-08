@@ -1,5 +1,5 @@
 /*global $*/
 /*global ready*/
-$(document).ready(function(){
-
-})
+$(document).ready(function() {
+  $("#sec1").paroller();
+});
