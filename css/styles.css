@@ -1,3 +1,7 @@
+/* * {
+  border: 1px solid red;
+} */
+
 html,
 body,
 h1,
@@ -64,4 +68,23 @@ div {
   width: 100vw;
   background: linear-gradient(#2c2a28, #4d4d3e);
   text-align: center;
+}
+
+#google_translate_element {
+  display: block;
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  padding: 10px;
+  background-color: black;
+  background-color: rgba(255, 255, 255, 0.5);
+  text-shadow: 0 0 5px white;
+}
+
+.tdb {
+  background-color: black;
+  color: white;
+  border: 1px solid red;
+  padding: 10px;
+  border-radius: 10px;
 }
